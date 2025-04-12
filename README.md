@@ -12,7 +12,7 @@
 - **Position Sought**: Infrastructure Developer / DevOps Engineer / SRE
 - **Preferred Location**: Singapore
 - **Contact**:
-  - **Email**: wcg6121@gmail.com
+  - **Email**: harrison@b1uepi.xyz
 - **Current Role**: Employed
 - **Education**: Associate Degree
 
