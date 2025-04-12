@@ -10,7 +10,7 @@
 - Github: [HZ89](https://github.com/HZ89)
 - 期望职位: infrastructure develop/Devops Engineer/SRE
 - 期望城市: 新加坡
-- Email: wcg6121@gmail.com
+- Email: harrison@b1uepi.xyz
 - 目前状态: 在职
 - 学历：大专
 
